@@ -10,4 +10,6 @@
 
 ## 📝 My Latest Blog Post in Medium
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@farisizzaturrahman/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@farisizzaturrahman/4" alt="Recent Article 4"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@farisizzaturrahman/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@farisizzaturrahman/0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@farisizzaturrahman/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@farisizzaturrahman/1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@farisizzaturrahman/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@farisizzaturrahman/2"> 
